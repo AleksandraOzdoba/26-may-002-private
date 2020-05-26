@@ -2,4 +2,4 @@ env:
   global: 
   - MAIN=main
 
-script: echo one
+script: echo two
