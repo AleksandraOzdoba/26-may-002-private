@@ -2,4 +2,4 @@ env:
   global: 
   - MAIN=main
 
-script: echo oneEDIT
+script: echo one
